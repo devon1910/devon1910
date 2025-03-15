@@ -1,5 +1,17 @@
 # 💫 About Me:
-Driven Full Stack Engineer with an appetite for creating elegant solutions out of challenging issues. From developing reliable web services to redefining client reporting, my career in technology has been an amazing adventure.<br><br>At DivVerse LLC, I've been wearing my problem-solving hat, cutting report generation time by 25% and boosting application performance by 40%. Who said reports had to be slow?<br><br>My time at Uridium Technologies saw me redesigning Web APIs and diving into the world of microservices. I even managed to make referral codes cool again!<br><br>I thrive on challenges. Whether it's implementing Redis caching in a Dockerized environment or setting up AWS glue jobs, I'm always eager to learn and push the boundaries of what's possible.<br><br><br>Beyond coding, I'm passionate about mentorship, blogging my learnings each day and have conducted technical interviews for 20+ candidates. I believe in giving back to the tech community that has given me so much.<br><br>Most importantly, I live by this SQL statement:<br>SELECT knowledge<br>FROM life_experiences<br>WHERE resources_available = TRUE<br>AND motivation > 0<br>ORDER BY curiosity DESC<br>LIMIT 1000000;
+👋 Hey there, I'm Davidson!
+I'm a full-stack engineer passionate about building scalable, efficient, and user-centric software solutions. With experience in .NET, React, C#, JavaScript, and cloud technologies (AWS, Azure), I specialize in designing robust architectures, optimizing performance, and solving real-world problems.
+
+🚀 What I Do:
+
+Software Engineering – Developing full-stack applications with a focus on clean, maintainable code.
+System Optimization – Improving efficiency with query optimization, caching strategies, and cloud-native solutions.
+Tech Leadership – Mentoring engineers, conducting code reviews, and fostering a collaborative dev culture.
+🛠 Projects & Impact:
+
+Swiftline – A queue management system that reduces wait times and improves event experiences.
+Crendly – A fintech platform leveraging AI-driven risk assessment for smarter lending decisions.
+DSA Cheat Sheet – Created a comprehensive resource that has helped 120+ engineers level up their algorithmic skills and interview prep.
 
 
 ## 🌐 Socials:
