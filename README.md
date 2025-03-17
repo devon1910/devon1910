@@ -7,6 +7,7 @@ I'm a full-stack engineer passionate about building scalable, efficient, and use
 Software Engineering – Developing full-stack applications with a focus on clean, maintainable code.
 System Optimization – Improving efficiency with query optimization, caching strategies, and cloud-native solutions.
 Tech Leadership – Mentoring engineers, conducting code reviews, and fostering a collaborative dev culture.
+
 🛠 Projects & Impact:
 
 Swiftline – A queue management system that reduces wait times and improves event experiences.
