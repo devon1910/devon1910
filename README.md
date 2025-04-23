@@ -11,6 +11,9 @@ Tech Leadership – Mentoring engineers, conducting code reviews, and fostering 
 🛠 Projects & Impact:
 
 Swiftline – A queue management system that reduces wait times and improves event experiences.
+
+
+
 Crendly – A fintech platform leveraging AI-driven risk assessment for smarter lending decisions.
 DSA Cheat Sheet – Created a comprehensive resource that has helped 120+ engineers level up their algorithmic skills and interview prep.
 
