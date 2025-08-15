@@ -80,18 +80,6 @@ I build **end-to-end products** that people actually want to use. From ideation 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Davidson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devon1910&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devon1910&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 What Makes Me Different
 
 ```typescript
@@ -104,7 +92,7 @@ const davidson = {
 };
 ```
 
-**I don't just write code—I solve problems.** Every project starts with understanding the human on the other side of the screen and ends with measurable impact.
+Every project starts with understanding the human on the other side of the screen and ends with measurable impact.
 
 ---
 
