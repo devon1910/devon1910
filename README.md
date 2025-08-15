@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Davidson Ekpokpobe
 
-**Product Engineer** building solutions that solve real problems | Turning complex challenges into elegant, scalable products
+**Product Focused Software Engineer** building solutions that actually solve real problems | Turning complex challenges into elegant, scalable products
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://davidson-portfolio-seven.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/davidson-ekpokpobe/)
