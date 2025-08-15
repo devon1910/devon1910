@@ -14,7 +14,7 @@ Turning product ideas into sustainable businesses
 Applying AI to deliver user insights and smarter automation
 
 🛠️ Tech I work with daily:
-.NET · React · PostgreSQL · SignalR · Pyhon · Docker · Vercel · Render
+.NET · React · PostgreSQL  Python · Docker · Vercel · Render
 
 📫 Let’s connect!
 Feel free to reach out or explore my work — I’m always open to collaboration, feedback, and new opportunities.
