@@ -56,7 +56,7 @@ I build **end-to-end products** that people actually want to use. From ideation 
 **Tech:** .NET Core, React, PostgreSQL, ML.NET, SignalR, Azure, Vercel  
 **Impact:** Saves users 2.5+ hours/week on average
 
-### 💳 Crendly - Credit Platform
+### 💳 [Crendly](https://www.crendly.com/) - Credit Platform
 > **Problem Solved**: Limited access to fair credit assessment for underserved populations
 
 **What it does:**
@@ -67,7 +67,7 @@ I build **end-to-end products** that people actually want to use. From ideation 
 
 **Tech:** .NET Core, Azure Service Bus, PostgreSQL, RESTful APIs
 
-### 🏫 StandardSchoolPortal - School Management System
+### 🏫 [StandardSchoolPortal](https://standard-schools-portal-rwtv.vercel.app/) - School Management System
 > **Problem Solved**: Manual administrative processes slowing down education delivery
 
 **What it does:**
