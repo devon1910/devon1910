@@ -102,7 +102,6 @@ Every project starts with understanding the human on the other side of the scree
 - 👥 **5,000+ users** served across fintech platforms I've built
 - ⚡ **Real-time systems** with WebSocket integration and cloud deployment
 - 🤖 **ML models** predicting wait times with 85%+ accuracy
-- 🏆 **First-class honors** Computer Science degree from Covenant University
 
 ---
 
