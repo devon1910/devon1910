@@ -38,4 +38,4 @@ Lagos, Nigeria &nbsp;·&nbsp; [davidsonekpokpobe@gmail.com](mailto:davidsonekpok
 
 ## Education
 
-BSc Computer Science — Covenant University &nbsp;`2017 – 2021` &nbsp;· First Class Honours
+BSc Computer Science
