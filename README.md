@@ -1,127 +1,64 @@
-# 👋 Hi, I'm Davidson Ekpokpobe
+# Davidson Ekpokpobe
 
-**Product Focused Software Engineer** building solutions that actually solve real problems 
+Full-stack engineer with 5 years building production systems — fintech APIs, compliance infrastructure, cloud monitoring.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://davidson-portfolio-seven.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/davidson-ekpokpobe/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:davidsonekpokpobe@gmail.com)
+Lagos, Nigeria &nbsp;·&nbsp; [davidsonekpokpobe@gmail.com](mailto:davidsonekpokpobe@gmail.com) &nbsp;·&nbsp; [Portfolio](#)
 
 ---
 
-## 🚀 What I Do
+## Stack
 
-I build **end-to-end products** that people actually want to use. From ideation to production deployment, I handle everything:
-- 🎯 **Product Strategy** - Understanding user problems and designing solutions
-- ⚡ **Backend Engineering** - Scalable APIs, databases, and cloud architecture  
-- 🎨 **Frontend Development** - Intuitive, responsive user experiences
-- 🤖 **AI Integration** - Machine learning models that solve real business problems
+**Languages** &nbsp; C# · Python · JavaScript · Go
 
----
+**Frontend** &nbsp; React · TypeScript
 
-## 🛠️ Tech Stack
+**Backend & Infra** &nbsp; PostgreSQL · Redis · Docker · AWS · Azure · Pulumi
 
-### Languages & Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Observability** &nbsp; Prometheus · Loki · Grafana
 
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Tools & More
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**CI/CD** &nbsp; GitHub Actions · Azure Pipelines
 
 ---
 
-## 🌟 Featured Projects
+## Experience
 
-### 🚀 [theSwiftline](https://theswiftline.com) - AI-Powered Queue Management
-> **Problem Solved**: People waste hours standing in lines when they could be productive elsewhere
+**Norebase** — Software Engineer &nbsp;`2025 – present`
+- Built proactive health monitoring across live infrastructure — Prometheus metrics, Loki logs, scheduled API tests
+- Automated pre-merge quality gates using ephemeral infra and CI/CD validation across 3 environments
+- Implemented legal traceability between compliance requirements and source legislation
 
-**What it does:**
-- 📱 Join queues remotely via QR code or web app
-- 🤖 AI-powered wait time predictions using ML.NET
-- 📊 Real-time queue updates with SignalR WebSockets
-- 📈 Analytics dashboard for event organizers
-- 🎮 Built-in games and fun facts while waiting
+**Divverse** — Software Engineer &nbsp;`2023 – 2024`
+- Cut report generation time 25% via stored procedure and Entity Framework optimization
+- Implemented Redis caching in a Dockerized environment; reduced data retrieval time significantly
+- Centralized logging with AWS CloudWatch + Serilog; improved bug resolution speed by 10%
 
-**Tech:** .NET Core, React, PostgreSQL, ML.NET, SignalR, Azure, Vercel  
-**Impact:** Saves users 2.5+ hours/week on average
+**Uridium Technologies** — Software Engineer &nbsp;`2022 – 2023`
+- Built internal metrics dashboard used by 8 teams
+- Shipped referral microservices API deployed across 5 fintech products
+- Improved transaction flow on Slick Hustle — clarified API logic, enforced 100% commission retention
 
-### 💳 [Crendly](https://www.crendly.com/) - Credit Platform
-> **Problem Solved**: Limited access to fair credit assessment for underserved populations
-
-**What it does:**
-- 🏦 Creditworthiness platform serving 5,000+ users
-- 💰 Secure wallet microservice for funding/withdrawals
-- 🔐 Role-based access with comprehensive credit scoring
-- ⚡ Event-driven architecture with Azure Service Bus
-
-**Tech:** .NET Core, Azure Service Bus, PostgreSQL, RESTful APIs
-
-### 🏫 [StandardSchoolPortal](https://standard-schools-portal-rwtv.vercel.app/) - School Management System
-> **Problem Solved**: Manual administrative processes slowing down education delivery
-
-**What it does:**
-- 🏫 Multi-campus student and teacher management
-- 💰 Streamlined fee payment tracking
-- 📝 Digital question bank for assessments
-- 🔒 Role-based access for admins and teachers
-
-**Tech:** .NET Core, React, PostgreSQL, JWT Authentication
+**Cyberspace Limited** — Software Engineer &nbsp;`2020`
+- Built salary scheduling APIs with JWT + API key auth
+- Architected Q&A platform API for 100+ construction professionals
 
 ---
 
-## 🎯 What Makes Me Different
+## Projects
 
-```typescript
-const davidson = {
-  mindset: "Product-first thinking",
-  approach: "Build solutions, not just features",
-  strength: "End-to-end ownership",
-  focus: "Real problems, real impact",
-  experience: "4+ years shipping products that scale"
-};
-```
+**[theSwiftline](#)** — PWA queue management system
+- Offline-capable, installable, mobile-optimized
+- AI-powered wait-time predictions via ML.NET
+- Saves users ~2.5hrs/week through real-time queue tracking
 
-Every project starts with understanding the human on the other side of the screen and ends with measurable impact.
+**[Crendly](#)** — Creditworthiness platform (5,000+ users)
+- End-to-end architecture across multiple institutions
+- Azure Service Bus for event-driven credit status updates
 
----
-
-## 📈 Recent Achievements
-
-- 🚀 **25% faster** report generation through optimized SQL and caching
-- 👥 **5,000+ users** served across fintech platforms I've built
-- ⚡ **Real-time systems** with WebSocket integration and cloud deployment
-- 🤖 **ML models** predicting wait times with 85%+ accuracy
+**[StandardSchoolsPortal](#)** — School management system
+- Serves 2 campuses; handles enrollment, fee tracking, academic data
 
 ---
 
-## 💬 Let's Connect!
+## Education
 
-I'm always excited to discuss:
-- 🚀 Product engineering challenges
-- 🤖 AI/ML integration in real-world applications
-- 📈 Building scalable systems with limited resources
-- 💡 Turning ideas into shipped products
-
-**Currently:** Open to Product Engineer opportunities where I can own products end-to-end and make measurable impact.
-
----
-
-<div align="center">
-
-### 🌟 "Building technology that doesn't just work, but makes people's lives measurably better."
-
-[![Portfolio](https://img.shields.io/badge/🌐-Visit_Portfolio-blue?style=for-the-badge)](https://davidson-portfolio-seven.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼-Connect_on_LinkedIn-blue?style=for-the-badge)](https://linkedin.com/in/davidson-ekpokpobe/)
-
-</div>
+BSc Computer Science — Covenant University &nbsp;`2017 – 2021` &nbsp;· First Class Honours
