@@ -25,7 +25,7 @@ Model Context Protocol server that lets LLMs query DB Schenker shipment data. Th
 ### ⚽ [OpenBet](#) — AI football prediction engine
 Three-model stacking ensemble (Poisson + XGBoost + meta-learner) with a Claude reasoning layer. 81.5% accuracy and 17% ROI across 12 competitions. Fully autonomous 6-hour pipeline; in-memory bulk features cut DB load from 17 queries per match to 2 total.
 
-### 🏟️ [SpartanStats](#) — TypeScript, Postgres
+### 🏃‍♂️‍➡️ [SpartanStats](#) — TypeScript, Postgres
 Match-level stats tracker for my Tuesday soccer group. Per-player goals, assists, MOTM, ELO-style ratings across seasons. Built it because the WhatsApp-screenshot scoreboard wasn't scaling past ten weeks of fixtures.
 
 ### ⏱️ [theSwiftline](#) — C#, .NET, ML.NET
