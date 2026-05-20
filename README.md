@@ -22,16 +22,16 @@ Lagos, Nigeria · [davidsonekpokpobe@gmail.com](mailto:davidsonekpokpobe@gmail.c
 ### 🛰️ [DSV Tracking MCP Server](https://github.com/devon1910/dsv-tracking-mcp-server): Go
 Model Context Protocol server that lets LLMs query DB Schenker shipment data. Three tools, browser-backed extraction against the public tracking endpoint, conditional caching with stale-fallback, eight-code error taxonomy, ADR-documented design decisions.
 
-### ⚽ [OpenBet](https://github.com/devon1910/OpenBet): Python, AI football prediction engine
-Three-model stacking ensemble (Poisson + XGBoost + meta-learner) with a Claude reasoning layer. 81.5% accuracy and 17% ROI across 12 competitions. Fully autonomous 6-hour pipeline.
+### ⚽ [OpenBet](https://github.com/devon1910/OpenBet): Python
+AI football prediction engine: Three-model stacking ensemble (Poisson + XGBoost + meta-learner) with a Claude reasoning layer. 81.5% accuracy and 17% ROI across 12 competitions. Fully autonomous 6-hour pipeline.
 
-### 🏃‍♂️‍➡️ [SpartanStats](https://github.com/devon1910/spartan-stats) — TypeScript, Postgres
+### 🏃‍♂️‍➡️ [SpartanStats](https://github.com/devon1910/spartan-stats): TypeScript, Postgres
 Match-level stats tracker for my Tuesday soccer group. Per-player goals, assists, MOTM, ELO-style ratings for different months. Built so every player can back their banter with data.
 
-### ⏱️ [theSwiftline](https://www.theswiftline.com/) — C#, .NET, ML.NET
+### ⏱️ [theSwiftline](https://www.theswiftline.com/): C#, .NET, ML.NET
 PWA queue-management system with offline-first architecture and ML.NET wait-time predictions trained on historical throughput. Full organizer dashboard for queue control, analytics, and real-time notifications.
 
-### 🎓 [StandardSchoolsPortal](https://github.com/devon1910/Standard-Schools-Portal) — C#, .NET
+### 🎓 [StandardSchoolsPortal](https://github.com/devon1910/Standard-Schools-Portal): C#, .NET
 School management system for a two-campus institution. Enrollment, fee tracking, academic records, parent-facing dashboards.
 
 ---
