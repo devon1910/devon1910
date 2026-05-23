@@ -2,7 +2,7 @@
 
 Software engineer, 5+ years. Production systems across compliance-tech, fintech, and AI-powered platforms. Currently leading infrastructure, DevOps, and SOC 2 compliance at Norebase.
 
-Lagos, Nigeria · [davidsonekpokpobe@gmail.com](mailto:davidsonekpokpobe@gmail.com) · [GitHub](https://github.com/devon1910) · [LinkedIn](https://linkedin.com/in/davidson-ekpokpobe)
+[davidsonekpokpobe@gmail.com](mailto:davidsonekpokpobe@gmail.com) · [LinkedIn](https://linkedin.com/in/davidson-ekpokpobe)
 
 ---
 
