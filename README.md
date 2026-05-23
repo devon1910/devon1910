@@ -17,7 +17,7 @@ Lagos, Nigeria · [davidsonekpokpobe@gmail.com](mailto:davidsonekpokpobe@gmail.c
 
 ---
 
-## Selected projects
+## Projects
 
 ### 🛰️ [DSV Tracking MCP Server](https://github.com/devon1910/dsv-tracking-mcp-server)
 Model Context Protocol server that lets LLMs query DB Schenker shipment data. Three tools, browser-backed extraction against the public tracking endpoint, conditional caching with stale-fallback, eight-code error taxonomy, ADR-documented design decisions.
