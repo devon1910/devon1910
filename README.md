@@ -28,7 +28,7 @@ Built for the love of the game; Combines a statistical (Poisson) model, an XGBoo
 ### 🏃‍♂️‍➡️ [SpartanStats](https://github.com/devon1910/spartan-stats): TypeScript, Postgres
 Match-level stats tracker for my Tuesday soccer group. Per-player goals, assists, MOTM, ELO-style ratings for different months. Built so every player can back their banter with data.
 
-### ⏱️ [theSwiftline](https://www.theswiftline.com/): C#, .NET, ML.NET
+### ⏱️ [theSwiftline](https://github.com/devon1910/SwitfLine): C#, .NET, ML.NET
 PWA queue-management system with offline-first architecture and ML.NET wait-time predictions trained on historical throughput. Full organizer dashboard for queue control, analytics, and real-time notifications.
 
 ### 🎓 [StandardSchoolsPortal](https://github.com/devon1910/Standard-Schools-Portal): C#, .NET
