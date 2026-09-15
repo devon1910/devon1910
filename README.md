@@ -1,7 +1,7 @@
 <img width="180" height="180" alt="apple-touch-icon-180" src="https://github.com/user-attachments/assets/f855a79d-9c8e-4215-96cd-37cbaf3b5cb1" />
 
 
-# Hi, I'm Davidson 👋
+# Hi, I'm Davidson Ekpokpobe 👋
 
 I'm a backend engineer. At work I build event pipelines, observability and security infrastructure. Outside work I build tools for AI agents, and apps for the people around me.
 
