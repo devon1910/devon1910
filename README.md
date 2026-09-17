@@ -7,7 +7,7 @@ I'm a backend engineer. At work I build event pipelines, observability and secur
 
 Lately I've been exploring how AI agents use tools in production: how they call them, how you see what they did, and how you keep them safe.
 
-## Things I've built
+## Community Projects
 
 - **[DSV Tracking MCP Server](https://github.com/devon1910/dsv-tracking-mcp-server)** 📦: lets AI agents like Claude track live shipments. Written in Go.
 - **[theSwiftLine](https://www.theswiftline.com/)** ⏱️: virtual queues with live updates and wait-time predictions, used by 1,500+ people.
